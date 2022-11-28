@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "kalebincode-reactnative",
+    "slug": "kalebincode-reactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
